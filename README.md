@@ -81,7 +81,7 @@ Each row in `submission.csv` contains:
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 Follow these steps to run the project locally using a Python virtual environment.
 
