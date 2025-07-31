@@ -61,7 +61,7 @@ All features were engineered identically on training and test sets to avoid data
 
 ---
 
-## 📁 Files Included
+<!-- ## 📁 Files Included
 
 | File Name      | Description                              |
 |----------------|------------------------------------------|
@@ -71,7 +71,7 @@ All features were engineered identically on training and test sets to avoid data
 | `submission.csv` | Predicted values for the test set      |
 | `README.txt`   | Original project documentation           |
 
----
+--- -->
 
 ## 📈 Output Format
 
