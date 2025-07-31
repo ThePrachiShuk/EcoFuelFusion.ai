@@ -143,12 +143,12 @@ jupyter notebook new.ipynb
 ```
 
 or <br>
-On a Mac
+#### On macOS/Linux:
 ```bash
 python3 code.py
 ```
 
-On Windows
+#### On Windows:
 ```bash
 python code.py
 ```
