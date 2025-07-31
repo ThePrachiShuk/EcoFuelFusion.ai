@@ -142,6 +142,17 @@ Make sure you're in the activated environment:
 jupyter notebook new.ipynb
 ```
 
+or
+On a Mac
+```bash
+python3 code.py
+```
+
+On Windows
+```bash
+python code.py
+```
+
 Ensure `train.csv` and `test.csv` are in the same directory as the notebook.
 
 ---
