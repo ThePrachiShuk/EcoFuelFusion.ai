@@ -165,9 +165,9 @@ To deactivate the virtual environment when you're done:
 deactivate
 ```
 
----
+<!-- --- -->
 
-### 📬 Contact
+<!-- ### 📬 Contact
 
 For any questions or collaboration requests, feel free to open an issue or reach out.
-
+ -->
