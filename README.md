@@ -87,7 +87,7 @@ Follow these steps to run the project locally using a Python virtual environment
 
 ### ✅ Prerequisites
 
-Make sure you have **Python 3.10+** installed.
+Make sure you have **Python 3.10+ (preferably Python 3.13.5)** installed.
 
 ---
 
