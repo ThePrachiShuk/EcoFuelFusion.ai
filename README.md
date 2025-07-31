@@ -142,7 +142,7 @@ Make sure you're in the activated environment:
 jupyter notebook new.ipynb
 ```
 
-or
+or <br>
 On a Mac
 ```bash
 python3 code.py
