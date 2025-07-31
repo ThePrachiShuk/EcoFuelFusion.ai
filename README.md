@@ -94,8 +94,8 @@ Make sure you have **Python 3.10+ (preferably Python 3.13.5)** installed.
 ### 📁 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/blend-property-prediction.git
-cd blend-property-prediction
+git clone https://github.com/ThePrachiShuk/EcoFuelFusion.ai.git
+cd EcoFuelFusion.ai
 ```
 
 ---
