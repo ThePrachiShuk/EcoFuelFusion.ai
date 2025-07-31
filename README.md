@@ -44,7 +44,7 @@ All features were engineered identically on training and test sets to avoid data
 
 | Category       | Library / Tool                                  |
 |----------------|--------------------------------------------------|
-| Programming    | Python 3.13.5                                    |
+| Programming    | `Python 3.13.5`                                    |
 | ML Libraries   | `scikit-learn`, `XGBoost`, `LightGBM`, `CatBoost`, `SVR` |
 | Deep Learning  | `PyTorch`                                        |
 | Optimization   | `Optuna`                                         |
