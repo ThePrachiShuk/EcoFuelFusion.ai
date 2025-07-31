@@ -80,3 +80,83 @@ Each row in `submission.csv` contains:
 - `BlendProperty1` to `BlendProperty10`: Predicted values
 
 ---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally using a Python virtual environment.
+
+### ✅ Prerequisites
+
+Make sure you have **Python 3.10+** installed.
+
+---
+
+### 📁 Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/your-username/blend-property-prediction.git
+cd blend-property-prediction
+```
+
+---
+
+### 🧪 Step 2: Create and Activate a Virtual Environment
+
+#### On macOS/Linux:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+#### On Windows:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+---
+
+### 📦 Step 3: Install Dependencies
+
+If you have a `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+Or manually install:
+
+```bash
+pip install pandas numpy scikit-learn xgboost lightgbm catboost optuna tqdm torch
+```
+
+---
+
+### 🏃‍♂️ Step 4: Run the Notebook
+
+Make sure you're in the activated environment:
+
+```bash
+jupyter notebook new.ipynb
+```
+
+Ensure `train.csv` and `test.csv` are in the same directory as the notebook.
+
+---
+
+### 🔁 Deactivating the Environment
+
+To deactivate the virtual environment when you're done:
+
+```bash
+deactivate
+```
+
+---
+
+### 📬 Contact
+
+For any questions or collaboration requests, feel free to open an issue or reach out.
+
