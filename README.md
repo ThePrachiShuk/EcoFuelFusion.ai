@@ -120,17 +120,17 @@ venv\Scripts\activate
 
 ### 📦 Step 3: Install Dependencies
 
-If you have a `requirements.txt`:
+<!-- If you have a `requirements.txt`: -->
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Or manually install:
+<!-- Or manually install:
 
 ```bash
 pip install pandas numpy scikit-learn xgboost lightgbm catboost optuna tqdm torch
-```
+``` -->
 
 ---
 
