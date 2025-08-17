@@ -171,3 +171,10 @@ deactivate
 
 For any questions or collaboration requests, feel free to open an issue or reach out.
  -->
+---
+
+## ⚖️ License & Copyright
+
+© 2025 **EcoFuelFusion.ai** — Developed by [Prachetas Shukla](https://github.com/ThePrachiShuk).  
+All rights reserved. This project is for educational and research purposes only.  
+Unauthorized copying, modification, or distribution of this project is prohibited without explicit permission.
